@@ -1,4 +1,4 @@
-(module ice4pi:lsi-logo-16mm (layer F.Cu) (tedit 60138257)
+(module pi-bridge:lsi-logo-16mm (layer F.Cu) (tedit 60138257)
   (descr "Imported from /home/vladimir/lsi/logo-kicad-3-with-holes.svg")
   (tags svg2mod)
   (attr virtual)
